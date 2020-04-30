@@ -20,6 +20,6 @@ Arrays.stream(x).sum()
 <dependency>
 	<groupId>de.labathome</groupId>
 	<artifactId>PreciseSummation</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 </dependency>
 ```
